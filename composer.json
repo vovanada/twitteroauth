@@ -1,5 +1,5 @@
 {
-    "name": "abraham/vovanada/twitteroauth",
+    "name": "abraham_vovanada/twitteroauth",
     "type": "package",
     "description": "Twitter oauth",
     "keywords": ["Twitter API", "Twitter oAuth"],
