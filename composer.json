@@ -14,8 +14,8 @@
       "php": ">=5.3.2"
     },
     "autoload": {
-		"psr-0": {
-			"twitteroauth": "twitteroauth"
-		}
+		"classmap": [
+			"twitteroauth/"
+		]
 	}
 }
